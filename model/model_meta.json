@@ -1,0 +1,1 @@
+{"inputUnits":[3],"outputUnits":1,"inputs":{"sale":{"dtype":"number","min":10,"max":9807},"weight":{"dtype":"number","min":66,"max":753},"resolution":{"dtype":"number","min":1.4,"max":12.2}},"outputs":{"price":{"dtype":"number","min":614,"max":3837}},"isNormalized":true}
